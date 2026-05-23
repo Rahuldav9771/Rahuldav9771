@@ -25,3 +25,13 @@ Azure, Terraform, Docker, Kubernetes, GitHub Actions, CI/CD Pipelines
 
 ## ⚡ Fun Fact
 I enjoy learning cloud technologies and automating infrastructure.
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,python,git,html,css,js,nodejs,react,mysql,postman,linux,windows" />
+</p>
+
+## 💻 Operating Systems
+
+- Windows
+- Linux
