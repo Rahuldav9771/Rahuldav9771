@@ -28,7 +28,7 @@ I enjoy learning cloud technologies and automating infrastructure.
 ## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,python,git,html,css,js,nodejs,react,mysql,postman,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,git,html,css,js,nodejs,react,mysql,linux,windows" />
 </p>
 
 ## 💻 Operating Systems
