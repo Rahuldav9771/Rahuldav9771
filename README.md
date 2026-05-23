@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Kumar
 
-<!--
-**Rahuldav9771/Rahuldav9771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+A passionate Cloud & DevOps Engineer from India.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Microsoft Azure
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD Deployments
+- Linux
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Helm Charts
+- ArgoCD
+- Prometheus & Grafana
+- Advanced Kubernetes
+- Infrastructure Automation
+
+## 💬 Ask Me About
+Azure, Terraform, Docker, Kubernetes, GitHub Actions, CI/CD Pipelines
+
+## ⚡ Fun Fact
+I enjoy learning cloud technologies and automating infrastructure.
