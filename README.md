@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rahul Kumar
 
 ## 🚀 About Me
-I am a DevOps Engineer with 5+ years of IT experience, including 3+ years specializing in DevOps and Azure Cloud. My expertise lies in building automated, scalable, and secure solutions using Azure DevOps services, Infrastructure as Code, and containerized platforms & Monitored Azure resources using Azure Monitor and responded to alerts, I am passionate about streamlining software delivery, improving reliability, and enabling teams to achieve faster time-to-market.
+I am a DevOps Engineer with 5+ years of IT experience, including 4+ years specializing in DevOps and Azure Cloud. My expertise lies in building automated, scalable, and secure solutions using Azure DevOps services, Infrastructure as Code, and containerized platforms & Monitored Azure resources using Azure Monitor and responded to alerts, I am passionate about streamlining software delivery, improving reliability, and enabling teams to achieve faster time-to-market.
 
 How to reach me: rahuldav9771@gmail.com
 
